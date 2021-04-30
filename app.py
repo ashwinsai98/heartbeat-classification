@@ -64,7 +64,7 @@ def pipeline():
     elif category == 1:
         return("Extra Heartbeat")
     elif category == 2:
-        return("Extrastole")
+        return("Extrasystole")
     elif category == 3:
         return("Murmur")
     elif category == 4:
