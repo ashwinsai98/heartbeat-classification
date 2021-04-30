@@ -62,7 +62,7 @@ def pipeline():
     if category == 0:
         return("Artifact")
     elif category == 1:
-        return("Extrahls")
+        return("Extra Heartbeat")
     elif category == 2:
         return("Extrastole")
     elif category == 3:
